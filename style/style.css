@@ -5,15 +5,10 @@ body {
 background-color: rgba(250,250,250,1);
 }
 h1,
+h2,
 header,
-footer{visibility:hidden;}
-
-div#wrapper {
-	background:#eee;
-	margin:0 auto;
-	padding:0;
-	width:960px;
-	min-height:600px;
+footer{
+	visibility:visible;
 }
 
 #disappear{
