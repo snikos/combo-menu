@@ -2,9 +2,7 @@
 
 ## DEMO
 Link:
-```html
 https://snikos.github.io/combo-menu/
-```
 
 ## DESCRIPTION
 
