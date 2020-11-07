@@ -1,14 +1,14 @@
-# COMBO MENU (h1)
+<div><img src="combo-menu.jpg" alt="unlimited small Menu"/></div>
 
-## PROMO (h2)
+## COMBO MENU
 
-### DEMO (h3)
+### DEMO
 
 https://snikos.github.io/combo-menu/
 
 ### DESCRIPTION
 
-<p align="left"><b>To create fixed menu.</b><b>An experiment with html css javascript.</b></p>
+<p align="left"><b>To create fixed menu. Just for fun.</b><b>An experiment with html css javascript.</b></p>
 
 ### TABLE Hub
 | CSS | CSS2 | CSS3 | CSS4 |
