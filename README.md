@@ -8,7 +8,7 @@ https://snikos.github.io/combo-menu/
 
 ### DESCRIPTION
 
-<p align="left"><b>To create fixed menu. Just for fun.</b><b>An experiment with html css javascript.</b></p>
+<p align="left"><b>To create fixed menu. Just for work and memory.</b><b>An experiment with html css javascript.</b></p>
 
 ### TABLE Hub
 | CSS | CSS2 | CSS3 | CSS4 |
